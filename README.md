@@ -25,7 +25,8 @@ A minimalist infinite runner game where you dodge traffic across 3 fixed lanes. 
 - 🧹 Ghosting and sizing bugs fixed for clean car lane alignment
 
 ## 🗂️ Folder Structure
-'''project/
+```bash
+project/
 ├── main.py
 └── assets/
 ├── 3lane.png # Road background
