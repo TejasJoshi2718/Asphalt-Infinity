@@ -32,7 +32,7 @@ project/
 ├── 3lane.png # Road background
 ├── porsche.png # Car sprite
 └── background_music.mp3 # Optional background music
-
+```
 
 ## ▶️ Running the Game
 
